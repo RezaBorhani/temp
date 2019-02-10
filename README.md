@@ -1,3 +1,3 @@
 # temp
 
-[a link](http://dgsix.com){:target="_blank"}
+<a href="http://dgsix.com" target="_blank"> a link </a>
